@@ -2,7 +2,7 @@
   "modelId": "ai4bharat-indicconformer-sat-onnx-int8",
   "version": "1.0.0",
   "assetName": "vidya-santali-asr-pack.zip",
-  "status": "files-verified-locally-pending-release-upload",
+  "status": "ready",
   "sourceRepository": "OpenVoiceOS/ai4bharat-indicconformer-sat-onnx",
   "sourceModel": "ai4bharat/indicconformer_stt_sat_hybrid_ctc_rnnt_large",
   "language": "Santali",
@@ -28,8 +28,9 @@
     }
   ],
   "release": {
-    "downloadUrl": "REPLACE_AFTER_ASR_RELEASE_UPLOAD",
-    "sizeBytes": 0,
-    "sha256": "REPLACE_AFTER_ASR_ZIP_HASH"
+    "tag": "v1.0.0",
+    "downloadUrl": "https://github.com/Vishnu6361/vishnu/releases/download/v1.0.0/vidya-santali-asr-pack.zip",
+    "sizeBytes": 97507845,
+    "sha256": "2345B37484D7E914AED25C94A9DE1A051F62DBD231286325AE6E5AAEF3F8D5F4"
   }
 }
