@@ -1,0 +1,35 @@
+{
+  "modelId": "ai4bharat-indicconformer-sat-onnx-int8",
+  "version": "1.0.0",
+  "assetName": "vidya-santali-asr-pack.zip",
+  "status": "files-verified-locally-pending-release-upload",
+  "sourceRepository": "OpenVoiceOS/ai4bharat-indicconformer-sat-onnx",
+  "sourceModel": "ai4bharat/indicconformer_stt_sat_hybrid_ctc_rnnt_large",
+  "language": "Santali",
+  "languageCode": "sat",
+  "script": "Ol Chiki",
+  "runtime": "onnxruntime",
+  "quantization": "int8",
+  "files": [
+    {
+      "name": "model.int8.onnx",
+      "sizeBytes": 137677313,
+      "sha256": "B1956AA8D6603A2A01DA88E7707E8D406EF268B8DF6C1744EB1C5C16E782FDCE"
+    },
+    {
+      "name": "vocab.txt",
+      "sizeBytes": 3387,
+      "sha256": "A2772C210AAF2CA4C7CCCD05CF86682BBEAE37DD31D57FCA444EFA0AED50E03B"
+    },
+    {
+      "name": "config.json",
+      "sizeBytes": 124,
+      "sha256": "68D5D1DF5FCF15832A13175A000CE4C49A47E12621BC6F008B3876B3633F578D"
+    }
+  ],
+  "release": {
+    "downloadUrl": "REPLACE_AFTER_ASR_RELEASE_UPLOAD",
+    "sizeBytes": 0,
+    "sha256": "REPLACE_AFTER_ASR_ZIP_HASH"
+  }
+}
