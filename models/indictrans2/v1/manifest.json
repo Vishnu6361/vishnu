@@ -1,11 +1,21 @@
 {
-  "modelId": "indictrans2-v1",
+  "modelId": "indictrans2-indic-indic-dist-320M-int8-onnx",
   "version": "1.0.0",
-  "assetName": "vidya-trace-indictrans2-v1.zip",
-  "sizeBytes": 0,
-  "sha256": "REPLACE_AFTER_RELEASE_UPLOAD",
-  "downloadUrl": "REPLACE_WITH_GITHUB_RELEASE_ASSET_URL",
-  "languages": [],
-  "runtime": "TO_BE_SELECTED",
-  "status": "pending-model-upload"
+  "assetName": "vidya-santhali-model-pack.zip",
+  "sizeBytes": 388960114,
+  "sha256": "45b8a25bd3a6c0afec30835875d660540cdcf0d3377476148f79928d9febecc1",
+  "downloadUrl": "https://github.com/Vishnu6361/vishnu/releases/download/v1.0.0/vidya-santhali-model-pack.zip",
+  "sourceRepository": "hari31416/indictrans2-indic-indic-dist-320M-ONNX-int8",
+  "sourceRevision": "802c1df",
+  "baseModel": "ai4bharat/indictrans2-indic-indic-dist-320M",
+  "sourceLanguage": "hin_Deva",
+  "targetLanguage": "sat_Olck",
+  "translationDirections": [
+    "hin_Deva->sat_Olck",
+    "sat_Olck->hin_Deva"
+  ],
+  "script": "Ol Chiki",
+  "runtime": "onnxruntime",
+  "quantization": "int8",
+  "status": "ready"
 }
