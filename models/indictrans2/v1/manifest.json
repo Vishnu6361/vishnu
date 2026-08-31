@@ -1,0 +1,11 @@
+{
+  "modelId": "indictrans2-v1",
+  "version": "1.0.0",
+  "assetName": "vidya-trace-indictrans2-v1.zip",
+  "sizeBytes": 0,
+  "sha256": "REPLACE_AFTER_RELEASE_UPLOAD",
+  "downloadUrl": "REPLACE_WITH_GITHUB_RELEASE_ASSET_URL",
+  "languages": [],
+  "runtime": "TO_BE_SELECTED",
+  "status": "pending-model-upload"
+}
